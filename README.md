@@ -5,4 +5,4 @@ For this challenge I had to clean up an exsisting code to my best knowlegde usin
 
 ## Deployed Links
 
-file:///C:/Users/SantaRita/Desktop/bootcamp/projects/Luis-Challenge-1-HTML/index.html
+https://cotaluis.github.io/challange1Cota/
